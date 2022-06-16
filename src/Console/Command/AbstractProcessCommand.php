@@ -19,7 +19,7 @@ abstract class AbstractProcessCommand extends Command
     /**
      * @required
      */
-    public function autowire(ConfigurationFactory $configurationFactory) : void
+    final public function autowire(ConfigurationFactory $configurationFactory) : void
     {
         $this->configurationFactory = $configurationFactory;
     }
