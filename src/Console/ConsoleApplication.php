@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Console;
 
 use RectorPrefix202206\Composer\XdebugHandler\XdebugHandler;

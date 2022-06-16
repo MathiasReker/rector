@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Differ;
 
 use RectorPrefix202206\SebastianBergmann\Diff\Differ;

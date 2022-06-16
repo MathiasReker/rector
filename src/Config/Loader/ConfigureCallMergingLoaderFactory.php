@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Config\Loader;
 
 use Rector\Core\DependencyInjection\Collector\ConfigureCallValuesCollector;

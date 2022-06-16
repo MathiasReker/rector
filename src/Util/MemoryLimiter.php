@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Util;
 
 use RectorPrefix202206\Nette\Utils\Strings;

@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\DependencyInjection;
 
 use RectorPrefix202206\Nette\Utils\FileSystem;

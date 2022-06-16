@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\DependencyInjection\Collector;
 
 use Rector\Core\Contract\Rector\ConfigurableRectorInterface;

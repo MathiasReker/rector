@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace RectorPrefix202206;
 
 // mimic missing T_ENUM constant on PHP 8.0-

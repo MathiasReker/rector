@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Php\PhpVersionResolver;
 
 use RectorPrefix202206\Composer\Semver\VersionParser;

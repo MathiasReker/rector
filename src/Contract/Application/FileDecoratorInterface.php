@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace Rector\Core\Contract\Application;
 
 use Rector\Core\ValueObject\Application\File;

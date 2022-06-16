@@ -1,6 +1,6 @@
 <?php
 
-declare (strict_types=1);
+declare(strict_types=1);
 namespace RectorPrefix202206;
 
 use PhpParser\Node;
